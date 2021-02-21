@@ -1,0 +1,22 @@
+body {
+    overflow: hidden;
+}
+
+nav {
+    float: right;
+}
+
+#logo {
+    display: block;
+}
+
+input[type="search"] {
+    display: block;
+}
+
+footer {
+    position: relative;
+    margin-top: 22rem;
+    bottom: 0;
+    left: 0;
+}

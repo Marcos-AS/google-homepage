@@ -1,0 +1,1 @@
+I will try to design a page that is similar to the google home webpage using pure HTML and CSS and practising my web developer's tools' skills. After finishing it I might try to make a functioning search bar.

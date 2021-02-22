@@ -60,10 +60,6 @@ button {
     background-color: whitesmoke;
 }
 
-button:hover {
-
-}
-
 footer {
     position: relative;
     margin-top: 21.3rem;
@@ -75,4 +71,18 @@ footer {
 footer a, footer p{
     text-decoration: none;
     color: grey;
+}
+
+footer a {
+    padding-right: 1rem;
+    font-size: 0.9rem;
+}
+
+#separacion-footer {
+    margin-left: 33rem;
+}
+
+footer p {
+    border-bottom: 1px solid gainsboro;
+    height: 2rem;
 }

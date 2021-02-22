@@ -1,0 +1,6 @@
+estilar la barra de búsqueda, falta icono de lupa
+icono de google en pestaña
+que no se borre constantemente la foto de perfil
+diseñar el boton de las apps de google
+armar el botón de settings
+estilar botones de google search y im feeling lucky

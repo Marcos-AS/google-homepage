@@ -1,5 +1,7 @@
 body {
     overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 nav {
@@ -16,12 +18,46 @@ nav li {
     display: inline;
 }
 
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 0.7rem;
+    font-weight: 100;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+#profile-img {
+    border-radius: 100%;
+}
+
 #logo {
     display: block;
+    position: relative;
+    top: 10rem;
+    margin: 0 auto;
 }
 
 input[type="search"] {
     display: block;
+    position: relative;
+    top: 10rem;
+    margin: 0 auto;
+    border-radius: 15%;
+}
+
+button {
+    margin: 0 auto;
+    position: relative;
+    top: 10rem;
+    border:none;
+    background-color: whitesmoke;
+}
+
+button:hover {
+
 }
 
 footer {
@@ -29,4 +65,10 @@ footer {
     margin-top: 22rem;
     bottom: 0;
     left: 0;
+    background-color: whitesmoke;
+}
+
+footer a, footer p{
+    text-decoration: none;
+    color: grey;
 }
